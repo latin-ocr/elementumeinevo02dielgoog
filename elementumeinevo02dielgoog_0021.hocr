@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementumeinevo02dielgoog_0021.png"; bbox 0 0 3140 5213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 366 2028 2610 2114">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 366 2028 2610 2114">
+     <span class='ocr_line' id='line_1_1' title="bbox 366 2028 2610 2114; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 366 2029 616 2113; x_wconf 87' lang='lat' dir='ltr'><strong>ZUR</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 683 2028 1507 2114; x_wconf 79' lang='lat' dir='ltr'><strong>GESOHIOHTE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1589 2031 1820 2114; x_wconf 78' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1895 2029 2610 2114; x_wconf 77' lang='lat' dir='ltr'><strong>BEGRIFFES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 924 2299 2031 2410">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 924 2299 2031 2410">
+     <span class='ocr_line' id='line_1_2' title="bbox 924 2299 2031 2410; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 924 2299 2031 2410; x_wconf 80' lang='lat' dir='ltr'><strong>ELEMENTUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 2583 2366 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 2583 2366 2680">
+     <span class='ocr_line' id='line_1_3' title="bbox 618 2583 2366 2680; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 618 2594 815 2678; x_wconf 90' lang='lat' dir='ltr'><strong>BEI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 873 2593 1500 2680; x_wconf 80' lang='lat' dir='ltr'><strong>GRIEOHEN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1554 2595 1804 2680; x_wconf 87' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1867 2583 2366 2680; x_wconf 79' lang='lat' dir='ltr'>ROMERN</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
